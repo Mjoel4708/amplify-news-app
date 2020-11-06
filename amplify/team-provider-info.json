@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newsapp-dev-125958-authRole",
+      "UnauthRoleArn": "arn:aws:iam::314723323901:role/amplify-newsapp-dev-125958-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::314723323901:role/amplify-newsapp-dev-125958-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-newsapp-dev-125958-deployment",
+      "UnauthRoleName": "amplify-newsapp-dev-125958-unauthRole",
+      "StackName": "amplify-newsapp-dev-125958",
+      "StackId": "arn:aws:cloudformation:us-east-1:314723323901:stack/amplify-newsapp-dev-125958/da19def0-2016-11eb-9e86-0ea1b88f1a89",
+      "AmplifyAppId": "d2iz2bs4j6kygd"
+    },
+    "categories": {
+      "auth": {
+        "newsapp3ea1f3ad": {}
+      }
+    }
+  }
+}
